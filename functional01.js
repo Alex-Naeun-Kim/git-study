@@ -117,7 +117,7 @@ var products = [
 ];
 
 //reduce로 price를 합친다
-
+//안녕
 function isPrice(value) {
   return value == product.price
 }
